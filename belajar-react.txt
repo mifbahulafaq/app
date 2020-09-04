@@ -2,4 +2,5 @@ belajar react
 -js = es6
 -css
 belajar rect native
+belajar vue native
 belajr python
